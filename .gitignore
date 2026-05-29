@@ -6,6 +6,7 @@ node_modules/
 /build/
 /.vite/
 /.cache/
+goldenresponse/client/dist/
 
 # Environment files
 .env
