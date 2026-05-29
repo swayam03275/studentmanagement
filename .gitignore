@@ -1,0 +1,28 @@
+# Node dependencies
+node_modules/
+
+# Build outputs
+/dist/
+/build/
+/.vite/
+/.cache/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+
+# Server uploads (keep .gitkeep)
+goldenresponse/server/uploads/*
+!goldenresponse/server/uploads/.gitkeep
